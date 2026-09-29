@@ -1,0 +1,6 @@
+{
+  "name": "EduGenie",
+  "description": "Your personal AI tutor for learning support with concept explanation, Q&A, interactive quiz generation, summarization, and adaptive learning paths.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
